@@ -1,4 +1,5 @@
 Example Voting App
+
 =========
 
 [![Lint Code Base](https://github.com/BretFisher/example-voting-app/actions/workflows/call-super-linter.yaml/badge.svg)](https://github.com/BretFisher/example-voting-app/actions/workflows/call-super-linter.yaml)
